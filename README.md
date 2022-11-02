@@ -11,4 +11,4 @@ When opening this application, simply log your schedule based on which hours you
 
 ![Screenshot of Live Application](/assets/images/screenshot.png)
 
-[website link]()
+[website link](https://gkaramanis1.github.io/day-scheduler/)
